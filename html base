@@ -1,0 +1,38 @@
+  Todo conteúdo visível na página, deverá ser visto na tag body
+    <!--
+        HTML
+        Hypertext
+            HiperTexto
+            <a>
+        Markup
+            Marcação
+        Language
+            Libguagem
+    -->
+
+    BASE DO HTML
+
+         <!DOCTYPE HTML>
+    <html lang="pt_br"> <!-- lang é um atributo que define a linguagem do html (por exemplo, en é ingleês, pt_br (portugues brasil)-->
+        <head>
+            <meta charset="UTF-8">
+            <meta name="vierport"
+            content="width=device-width, initual-scale=1.0">
+            <title> Proffy | Sua plataforma de estudos online
+            </title>
+        </head>
+        <body>
+           <h1> Proffy</h1> 
+           <h2> Proffy</h2>
+           <p> 
+             Sua plataforma de estudos online</p>
+            
+          <img src="" alt="Logo">
+
+          <button>Estudar</button>
+          <button>Dar aulas</button>
+          imagem
+        </body>
+
+        </head>
+    </html>
